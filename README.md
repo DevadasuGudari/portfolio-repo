@@ -6,11 +6,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 ## 🚀 Live Demo
 
-👉 Add your deployed website link here
-
-Example:
-
-https://devadas-portfolio.netlify.app/
+Live : https://devadas-portfolio.netlify.app/
 
 ---
 
