@@ -32,7 +32,7 @@ Live : https://devadas-portfolio.netlify.app/
 
 ## Contact Section
 
-![Contact](./images/contact.png)
+![Contact](./images/contacts.png)
 
 ---
 
