@@ -163,7 +163,7 @@ This portfolio is fully responsive and optimized for:
 Frontend Developer
 
 GitHub:
-https://github.com/Devadasu6305
+https://github.com/DevadasuGudari
 
 LinkedIn:
 https://www.linkedin.com/in/gudari-devadasu-81141130a/
