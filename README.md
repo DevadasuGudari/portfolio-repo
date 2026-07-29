@@ -14,25 +14,25 @@ Live : https://devadas-portfolio.netlify.app/
 
 ## Home Page
 
-![Home](./images/portfolio-home.png)
+![Home](./images/home.png)
 
 ---
 
 ## About Section
 
-![About](./images/portfolio-about.png)
+![About](./images/about.png)
 
 ---
 
 ## Projects Section
 
-![Projects](./images/portfolio-projects.png)
+![Projects](./images/projects.png)
 
 ---
 
 ## Contact Section
 
-![Contact](./images/portfolio-contact.png)
+![Contact](./images/contact.png)
 
 ---
 
