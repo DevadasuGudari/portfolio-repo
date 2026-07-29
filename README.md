@@ -10,7 +10,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 Example:
 
-https://your-portfolio.netlify.app
+https://devadas-portfolio.netlify.app/
 
 ---
 
