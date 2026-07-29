@@ -14,25 +14,25 @@ Live : https://devadas-portfolio.netlify.app/
 
 ## Home Page
 
-![Home](./images/portfolio-home.png)
+![Home](./images/home.png)
 
 ---
 
 ## About Section
 
-![About](./images/portfolio-about.png)
+![About](./images/about.png)
 
 ---
 
 ## Projects Section
 
-![Projects](./images/portfolio-projects.png)
+![Projects](./images/projects.png)
 
 ---
 
 ## Contact Section
 
-![Contact](./images/portfolio-contact.png)
+![Contact](./images/contacts.png)
 
 ---
 
@@ -163,7 +163,7 @@ This portfolio is fully responsive and optimized for:
 Frontend Developer
 
 GitHub:
-https://github.com/Devadasu6305
+https://github.com/DevadasuGudari
 
 LinkedIn:
 https://www.linkedin.com/in/gudari-devadasu-81141130a/
